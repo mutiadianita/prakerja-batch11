@@ -1,0 +1,15 @@
+h3 {
+    color: palegreen;
+}
+
+/* Selector ID  */
+#judul {
+    background-color: lavender;
+    color: purple;
+    font-size: 30px;
+}
+
+.artikel h1 {
+    color: red;
+    background-color: black;
+}
